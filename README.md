@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Alexandre DANG, a french student working on a double master diploma at the University of Sherbrooke near Montréal.
+
+I studied computer science at INP-ENSEEIHT at Toulouse, France. 
+I did an intership in deeplearning, the field I want to work in !
+
+I'm still searching for a 6 months internship by the way ! :wink:
+
 <!--
 **AlexAuragan/AlexAuragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
